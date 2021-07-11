@@ -11,4 +11,4 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muna-kaurimuje&show_icons=true&theme=merko)
+![muna-kaurimuje's GitHub stats](https://github-readme-stats.vercel.app/api?username=muna-kaurimuje&show_icons=true&theme=merko)
