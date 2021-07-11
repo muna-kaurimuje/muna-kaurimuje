@@ -13,4 +13,4 @@
 
 ![muna-kaurimuje's GitHub stats](https://github-readme-stats.vercel.app/api?username=muna-kaurimuje&show_icons=true&theme=merko)
 
-![muna-kaurimuje's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muna-kaurimuje&langs_count=5&theme=tokyonight)]()
+![muna-kaurimuje's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muna-kaurimuje&langs_count=3&theme=tokyonight)
